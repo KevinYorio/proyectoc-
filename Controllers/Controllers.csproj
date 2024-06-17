@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sistemadegestion\Sistemadegestion.csproj" />
+    <ProjectReference Include="..\SistemaGestionBusiness\SistemaGestionBusiness.csproj" />
+    <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
+    <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
+    <ProjectReference Include="..\SistemaGestionUI\SistemaGestionUI.csproj" />
+  </ItemGroup>
+
+</Project>
