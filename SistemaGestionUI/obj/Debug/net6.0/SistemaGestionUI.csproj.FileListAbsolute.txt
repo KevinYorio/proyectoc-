@@ -1,0 +1,5 @@
+D:\Coderhouse\archivos curso c#\Sistemadegestion\SistemaGestionUI\obj\Debug\net6.0\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\Coderhouse\archivos curso c#\Sistemadegestion\SistemaGestionUI\obj\Debug\net6.0\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coderhouse\archivos curso c#\Sistemadegestion\SistemaGestionUI\obj\Debug\net6.0\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\Coderhouse\archivos curso c#\Sistemadegestion\SistemaGestionUI\obj\Debug\net6.0\SistemaGestionUI.AssemblyInfo.cs
+D:\Coderhouse\archivos curso c#\Sistemadegestion\SistemaGestionUI\obj\Debug\net6.0\SistemaGestionUI.csproj.CoreCompileInputs.cache

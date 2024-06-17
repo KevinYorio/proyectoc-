@@ -1,7 +1,8 @@
-﻿using SistemaGestionEntities.models;
-using Sistemadegestion.Controllers;
+﻿using WebApplication1.Controllers;
+using SistemaGestionEntities.models;
 using System;
 using System.Collections.Generic;
+
 
 namespace SistemaGestionUI
 {

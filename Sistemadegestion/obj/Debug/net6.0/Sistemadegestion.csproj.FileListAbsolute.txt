@@ -4,3 +4,8 @@ C:\Users\kevin\OneDrive\Escritorio\Coderhouse\archivos curso c#\Sistemadegestion
 C:\Users\kevin\OneDrive\Escritorio\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.AssemblyInfo.cs
 C:\Users\kevin\OneDrive\Escritorio\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.csproj.CoreCompileInputs.cache
 C:\Users\kevin\OneDrive\Escritorio\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.sourcelink.json
+D:\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.csproj.AssemblyReference.cache
+D:\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.AssemblyInfoInputs.cache
+D:\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.AssemblyInfo.cs
+D:\Coderhouse\archivos curso c#\Sistemadegestion\Sistemadegestion\obj\Debug\net6.0\Sistemadegestion.csproj.CoreCompileInputs.cache

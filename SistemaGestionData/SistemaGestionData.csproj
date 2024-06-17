@@ -1,22 +1,25 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>Library</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\kevin\OneDrive\Escritorio\sistemaproyectoc#.cs" Link="sistemaproyectoc#.cs" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+		<PackageReference Include="NLog" Version="4.7.12" />
+		<PackageReference Include="NLog.Config" Version="4.7.12" />
+		<PackageReference Include="NLog.Targets" Version="4.7.12" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\SistemaGestionBusiness\SistemaGestionBusiness.csproj" />
+		<ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
+		<ProjectReference Include="..\SistemaGestionUI\SistemaGestionUI.csproj" />
+		<ProjectReference Include="..\WebApplication1\WebApplication1.csproj" />
+	</ItemGroup>
 
 </Project>

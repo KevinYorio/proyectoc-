@@ -19,6 +19,7 @@
     <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
     <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
     <ProjectReference Include="..\SistemaGestionUI\SistemaGestionUI.csproj" />
+	  <ProjectReference Include="..\WebApplication1\WebApplication1.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -8,9 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SistemaGestionBusiness\SistemaGestionBusiness.csproj" />
-    <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
-    <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
+	  <ProjectReference Include="..\SistemaGestionBusiness\SistemaGestionBusiness.csproj" />
+	  <ProjectReference Include="..\SistemaGestionData\SistemaGestionData.csproj" />
+	  <ProjectReference Include="..\SistemaGestionEntities\SistemaGestionEntities.csproj" />
+	  <ProjectReference Include="..\WebApplication1\WebApplication1.csproj" />
   </ItemGroup>
 
 </Project>
